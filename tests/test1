@@ -1,0 +1,4 @@
+while (1) do read y;
+if(y>10) then y:=y*9 else y:=3;
+skip;
+write x;
